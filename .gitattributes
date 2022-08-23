@@ -1,1 +1,1 @@
-*.sql linguist-detectable=true
+*.TSQL linguist-detectable=true
